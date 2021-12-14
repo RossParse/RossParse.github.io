@@ -2,6 +2,11 @@
 
 I'll be updating this page with snippets from my currents projects to use as a blog and timeline of my development steps.
 
+Current Projects:
+- [x] Setting up my Github page
+- [ ] Finish configuring theme for portfolio website
+- [ ] Start RDS/Flask Project for AWS 
+
 
 ```markdown
 Syntax highlighted code block
